@@ -1,8 +1,5 @@
 ## Hola! 👋
 
-<!--
-**pabloesteban2712/pabloesteban2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy trabajando en desarrollar mi propia web portfolio, mientras participo y desarrollo otros proyectos.
