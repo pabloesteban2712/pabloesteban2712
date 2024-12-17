@@ -14,4 +14,4 @@ LinkedIn: https://www.linkedin.com/in/pablo-esteban-gago/
 Email: estebangagopablo7@gmail.com
 
 - ⚡ Fun fact: Realicé la carrera de Ciencias Políticas y de la Administracción Pública, pero decidí cambiar radicalmente y comenzar mi camino en la programación porque sentía que mi camino estaba en el sector tecnológico. 
-Esta formación académica ha hecho que pueda desarrollar softskills realmente interesantes y que siento que me pueden ayudar en gran medida en mi futuro laboral, como oratoria, comunicación afectiva, resolución de problemas, colaboración en equipo.
+Esta formación académica ha hecho que pueda desarrollar softskills realmente interesantes y que siento que me pueden ayudar en gran medida en mi futuro laboral, como oratoria, comunicación afectiva, capacidad de negociación, resolución de problemas, colaboración en equipo...
