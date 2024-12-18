@@ -1,8 +1,7 @@
 ## Hola! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 Actualmente estoy trabajando en desarrollar mi propia web portfolio, mientras participo y desarrollo otros proyectos.
+- 🔭 Actualmente estoy trabajando en desarrollar distintos proyectos, mientras que comienzo las prácticas de mi curso de Python.
+Proyectos como el analisis de un database, desarrollo de un modelo predictivo, desarrollar mi propio sitio web(portfolio)...
 
 - 🌱 Estoy aprendiendo SQL, Django, JavaScript y otras tecnologías Backend que me ayuden como Python Developer. 
 
